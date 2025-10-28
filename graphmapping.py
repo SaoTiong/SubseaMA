@@ -21,8 +21,8 @@ MAX_FILTER_DISTANCE = 15.0
 VOXEL_SIZE = 0.01 # 10cm voxel size for fusing.
 
 
-KEYFRAME_STEP = 60       # The gap between keyframes (e.g., 10, 20, 30)
-END_FRAME = 1000     # The last frame number you want to process
+KEYFRAME_STEP = 30       # The gap between keyframes (e.g., 10, 20, 30)
+END_FRAME = 500     # The last frame number you want to process
 NUM_VIEWS_PER_BATCH = 5  
 # ----------------------------------------
 
